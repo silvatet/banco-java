@@ -9,7 +9,6 @@ Neste projeto, desenvolvi um sistema de banco em Java que permite gerenciar cont
 **Funcionalidades**
 -------------------
 
-* **Cadastro de Clientes**: permite cadastrar novos clientes com informações como nome, CPF e endereço.
 * **Abertura de Contas**: permite abrir novas contas para os clientes, com opções de conta corrente ou poupança.
 * **Depósitos e Saques**: permite realizar depósitos e saques em contas correntes e poupanças.
 * **Transferências**: permite realizar transferências entre contas.
